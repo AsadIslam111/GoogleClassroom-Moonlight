@@ -674,6 +674,11 @@ textarea {
 .QkA63b .GJYBjd {
   border: 1px solid #4c4c4c !important;
 }
+[jsname="K4r5Ff"]
+{
+  color: #232323 !important;
+}
+
 `;
 
     var elem = document.createElement('style');
